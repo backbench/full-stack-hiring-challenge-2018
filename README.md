@@ -1,6 +1,6 @@
 # Assignment-2018: Instructions
 
-Implement a virtual file system using NodeJs. This should be a webapp.
+Implement a virtual "File manager" using NodeJs. This should be a webapp.
 
 You can proceed in following steps:-
 
@@ -20,11 +20,13 @@ You can proceed in following steps:-
 
 You should be able to browse through all files using /browse. The files hierarchy can be like;
 
+```
 newdocs/
 ├── client-dashboard.md
 └── pages
     ├── auth
     │   └── oauth.md
     └── auth.md
+ ```
     
 Fork this assignment, put your code on github then submit.
