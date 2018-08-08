@@ -1,6 +1,6 @@
 # Assignment-18: Instructions
 
-Create a File system using NodeJs. This should be a webapp.
+Implement a virtual file system using NodeJs. This should be a webapp.
 
 You can proceed in following steps:-
 
